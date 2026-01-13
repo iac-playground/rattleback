@@ -11,4 +11,5 @@ Additionally, if the defaults are used then the bucket is set to allow public ac
 
 You can check the `../s3-exemplar` test case for what an ideal S3 bucket looks like.
 
-> No Op change for testing CI
+> No Op change for testing CI.
+> Bump.
