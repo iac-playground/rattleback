@@ -10,3 +10,6 @@ A default S3 bucket is a very bad thing, and has the following issues:
 Additionally, if the defaults are used then the bucket is set to allow public access.
 
 You can check the `../s3-exemplar` test case for what an ideal S3 bucket looks like.
+
+> No Op change for testing CI.
+> Bump.
